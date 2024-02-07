@@ -1,0 +1,4 @@
+Odin project - Mini Message Board
+1. cd
+2. npm install
+3. npm run serverstart
